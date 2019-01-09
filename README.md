@@ -1,2 +1,2 @@
 # RegFuck updated with .NET-3.5
-password : enjoj
+password for archive(.rar) : "enjoj"
